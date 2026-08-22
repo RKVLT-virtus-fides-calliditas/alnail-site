@@ -213,13 +213,6 @@ h1, h2, h3 {
   margin-top: 4px;
 }
 
-.price {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 18px;
-  color: var(--clay);
-  white-space: nowrap;
-}
-
 /* Работы */
 .portfolio {
   padding: 100px 48px;
