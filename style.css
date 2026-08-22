@@ -177,6 +177,7 @@ h1, h2, h3 {
   max-width: 900px;
   margin: 0 auto;
   text-align: left;
+  align-items: start;
 }
 
 .price-category {
